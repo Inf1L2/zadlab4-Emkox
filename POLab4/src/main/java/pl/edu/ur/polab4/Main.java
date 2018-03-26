@@ -92,7 +92,7 @@ public class Main {
                 break;
             case 2:
                 cls();
-                System.out.println("Podaj promień koła!");
+                System.out.println("Podaj promień kuli!");
                 Kula kula1 = new Kula(wczytajFloat());
                 kula1.wyswietlDane();
                 System.out.println("Wcisnij ENTER aby kontynuować ...");
